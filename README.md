@@ -1,1 +1,1 @@
-Task 0.Where am I?
+a script that changes the working directory to the user’s home directory
